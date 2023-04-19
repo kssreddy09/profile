@@ -170,7 +170,7 @@ img {
 
 .imgsize{
 padding: 6px;
-width: 180px;
+height: 180px;
 }
 
 .iconsize{
@@ -274,7 +274,7 @@ ul.navigation a:hover{
 ul.navigation a.selected {
 	color: #fff;
 	font-size: 24px;
-	margin-left: -15px;
+	margin-left: -18px;
 	padding: 24px 0px 15px 65px;
 	background: url(images/select_tab.png);
 }
@@ -287,5 +287,6 @@ overflow: auto;
 overflow-x: hidden;
 position: relative;
 clear: left;
-border: 2px solid #ddd;
+border-radius: 6px;
+box-shadow: inset 0 0 10px #0000cc;
 }
