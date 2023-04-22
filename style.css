@@ -79,7 +79,7 @@ tr:nth-child(even) {
 a, a:link, a:visited { color: blue; text-decoration: none; }
 a:hover { text-decoration: underline; }
 
-p { font-size: 16px; margin: 0 0 15px 0; padding: 0; }
+p { font-size: 16px; margin: 0 0 0 0; padding: 0; }
 img { border: none; }
 
 h1 {font-size:4.6rem;}
