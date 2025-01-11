@@ -290,8 +290,6 @@ position: relative;
 clear: left;
 border-radius: 6px;
 box-shadow: inset 0 0 10px #0000cc;
+animation: primary 3s linear infinite;
 }
 
-.scrollContainer {
-position: absolute;
-animation: primary 3s linear infinite;
